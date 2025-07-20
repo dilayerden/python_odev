@@ -124,7 +124,7 @@ gibi analizleri içeren etkileşimli bir rapordur.
 ##  Proje Dosyası
 Power BI (.pbix) dosyasını buradan indirebilirsiniz:
 
- Proje Dosyası: ([https://drive.google.com/file/d/1sXWl0jxxxyN5ph4ypp0t-N6AFXcHuLLT/view?usp=sharing)
+ Proje Dosyası: ([https://drive.google.com/file/d/1sXWl0jxxxyN5ph4ypp0t-N6AFXcHuLLT/view?usp=sharing])
 ---
 
 ## 🛠 Kullanılan Teknolojiler
