@@ -1,4 +1,4 @@
-Airline Passenger Satisfaction - Veri Analizi Projesi
+## Airline Passenger Satisfaction - Veri Analizi Projesi
 Proje Amacı
 Bu proje, havayolu yolcu memnuniyet veri seti üzerinde:
 
@@ -104,3 +104,30 @@ airline-analysis/
 bash
 # Gereksinimler
 pip install pandas numpy matplotlib seaborn jupyter
+
+#######################################################################
+
+# Power BI Satış Analizi Projesi
+
+Bu Power BI projesi, kullanıcı, sipariş ve ürün verileri kullanılarak;
+
+- Özet satış istatistikleri,
+- Müşteri segmentasyonu,
+- Kategori bazlı satış analizleri,
+- Yaş grubu analizleri,
+- Bölgesel satış dağılımı
+
+gibi analizleri içeren etkileşimli bir rapordur.
+
+---
+
+##  Proje Dosyası
+Power BI (.pbix) dosyasını buradan indirebilirsiniz:
+
+ [Proje Dosyası]([https://drive.google.com/file/d/1sXWl0jxxxyN5ph4ypp0t-N6AFXcHuLLT/view?usp=sharing)
+---
+
+## 🛠 Kullanılan Teknolojiler
+- Power BI Desktop
+- DAX
+- Veri Modelleme
